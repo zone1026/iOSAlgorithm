@@ -22,7 +22,6 @@
 		604C1FFE26D34C8400BE6F3F /* YZBaseObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 604C1FFD26D34C8400BE6F3F /* YZBaseObject.m */; };
 		604C200226D3890500BE6F3F /* YZBinaryTree.m in Sources */ = {isa = PBXBuildFile; fileRef = 604C200126D388F000BE6F3F /* YZBinaryTree.m */; };
 		6052106426D394400013E414 /* YZBinaryTreeExample.m in Sources */ = {isa = PBXBuildFile; fileRef = 6052106326D394400013E414 /* YZBinaryTreeExample.m */; };
-		6096E25526E617640025E2B8 /* YZDemo.m in Sources */ = {isa = PBXBuildFile; fileRef = 6096E25426E617640025E2B8 /* YZDemo.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -54,8 +53,6 @@
 		604C200126D388F000BE6F3F /* YZBinaryTree.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YZBinaryTree.m; sourceTree = "<group>"; };
 		6052106226D394400013E414 /* YZBinaryTreeExample.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YZBinaryTreeExample.h; sourceTree = "<group>"; };
 		6052106326D394400013E414 /* YZBinaryTreeExample.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YZBinaryTreeExample.m; sourceTree = "<group>"; };
-		6096E25326E617640025E2B8 /* YZDemo.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YZDemo.h; sourceTree = "<group>"; };
-		6096E25426E617640025E2B8 /* YZDemo.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YZDemo.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,8 +95,6 @@
 				0D40C43226D0F02700B306E5 /* SceneDelegate.m */,
 				0D40C43426D0F02700B306E5 /* ViewController.h */,
 				0D40C43526D0F02700B306E5 /* ViewController.m */,
-				6096E25326E617640025E2B8 /* YZDemo.h */,
-				6096E25426E617640025E2B8 /* YZDemo.m */,
 				0D40C43726D0F02700B306E5 /* Main.storyboard */,
 				0D40C43A26D0F02A00B306E5 /* Assets.xcassets */,
 				0D40C43C26D0F02A00B306E5 /* LaunchScreen.storyboard */,
@@ -234,7 +229,6 @@
 				0D40C43626D0F02700B306E5 /* ViewController.m in Sources */,
 				604C200226D3890500BE6F3F /* YZBinaryTree.m in Sources */,
 				0D40C43026D0F02700B306E5 /* AppDelegate.m in Sources */,
-				6096E25526E617640025E2B8 /* YZDemo.m in Sources */,
 				604C1FF526D3401A00BE6F3F /* YZBubbleSort.m in Sources */,
 				604C1FFE26D34C8400BE6F3F /* YZBaseObject.m in Sources */,
 				0D40C44D26D0F51400B306E5 /* YZInsertionSort.m in Sources */,
